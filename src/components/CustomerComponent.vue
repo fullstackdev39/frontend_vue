@@ -132,8 +132,8 @@ import CustomComponent from './CustomComponent'
       data: function() {
          return {
             message: 'This is customer page',
-            firstname : "KwangIl",
-            lastname  : "Kim",
+            firstname : "cheng",
+            lastname  : "jin",
             address    : "Mumbai",
             users: null,
             htmlcontent : "<div><h1>Vue Js Template</h1></div>",
